@@ -1,6 +1,6 @@
 const quizData = [
     {
-      question: 'Who developed Python Programming Language?',
+      question: 'When was developed Python Programming Language?',
       options: ['Wick van Rossum','Rasmus Lerdorf','Guido van Rossum','Niene Stom'],
       answer: 'Guido van Rossum',
     },
